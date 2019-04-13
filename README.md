@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 # Manage and Deploy a Project with Git
@@ -36,3 +37,6 @@ Here are the **instructions**!
 20.  Push your branch to the remote repository and create a Pull Request!
 
 Make sure and keep a copy of your work for your mentors!
+=======
+# gitactivity
+>>>>>>> squashed 2,3,4.
