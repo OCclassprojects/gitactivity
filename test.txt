@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+GitHub is awesome!GitHub is awesome!
+=======
+GitHub is awesome!
+>>>>>>> 138ba3649b27f7a90645acb2b8bd417c7eb6c028
