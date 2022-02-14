@@ -1,0 +1,10 @@
+[gui]
+	recentrepo = C:/Users/deand/OneDrive/Documents/Education/OpenClassrooms/Set Up Your Front-End Development Environment/5543061-ecrivez-du-javascript-pour-le-web-activity-master
+[filter "lfs"]
+	required = true
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+[user]
+	name = DeanDM14
+	email = deandmacphail14@gmail.com
